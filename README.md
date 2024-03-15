@@ -10,4 +10,3 @@ I'm a software engineering student who has been coding on and off for several ye
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
 <img align="left" alt="Go [Learning]" width="26px" src="https://img.icons8.com/?size=512&id=44442&format=png" />
-<img align="left" alt="React [Learning]" width="26px" src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" />
